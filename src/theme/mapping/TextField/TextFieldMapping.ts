@@ -24,6 +24,7 @@ export const TextFieldMapping = (theme: ThemeType): StylesType => {
         fontFamily: theme.typography.fontFamily,
         width: '100%',
         borderStyle: 'solid',
+        boxSizing: ' border-box',
         borderRadius: theme.shape.borderRadius,
         borderWidth: theme.shape.borderWidth,
         '&:focus': {
