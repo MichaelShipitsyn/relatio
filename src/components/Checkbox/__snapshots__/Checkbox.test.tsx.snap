@@ -1,0 +1,366 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox should render correctly with no props 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <label
+        class="sc-hKgILt clrXff Checkbox"
+        data-checked="true"
+        data-disabled="false"
+        data-status="basic"
+      >
+        <input
+          checked=""
+          class="sc-eCssSg fJdDME"
+          type="checkbox"
+        />
+        <span
+          class="Checkbox__Control"
+        >
+          <svg
+            class="Checkbox__Icon"
+            viewBox="0 0 8 7"
+          >
+            <path
+              d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="Checkbox__Label"
+        >
+          Checkbox
+        </span>
+      </label>
+    </div>
+  </body>,
+  "container": <div>
+    <label
+      class="sc-hKgILt clrXff Checkbox"
+      data-checked="true"
+      data-disabled="false"
+      data-status="basic"
+    >
+      <input
+        checked=""
+        class="sc-eCssSg fJdDME"
+        type="checkbox"
+      />
+      <span
+        class="Checkbox__Control"
+      >
+        <svg
+          class="Checkbox__Icon"
+          viewBox="0 0 8 7"
+        >
+          <path
+            d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+          />
+        </svg>
+      </span>
+      <span
+        class="Checkbox__Label"
+      >
+        Checkbox
+      </span>
+    </label>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Checkbox should render with danger status 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <label
+        class="sc-hKgILt clrXff Checkbox"
+        data-checked="true"
+        data-disabled="false"
+        data-status="danger"
+      >
+        <input
+          checked=""
+          class="sc-eCssSg fJdDME"
+          type="checkbox"
+        />
+        <span
+          class="Checkbox__Control"
+        >
+          <svg
+            class="Checkbox__Icon"
+            viewBox="0 0 8 7"
+          >
+            <path
+              d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="Checkbox__Label"
+        >
+          Checkbox
+        </span>
+      </label>
+    </div>
+  </body>,
+  "container": <div>
+    <label
+      class="sc-hKgILt clrXff Checkbox"
+      data-checked="true"
+      data-disabled="false"
+      data-status="danger"
+    >
+      <input
+        checked=""
+        class="sc-eCssSg fJdDME"
+        type="checkbox"
+      />
+      <span
+        class="Checkbox__Control"
+      >
+        <svg
+          class="Checkbox__Icon"
+          viewBox="0 0 8 7"
+        >
+          <path
+            d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+          />
+        </svg>
+      </span>
+      <span
+        class="Checkbox__Label"
+      >
+        Checkbox
+      </span>
+    </label>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Checkbox should set disabled if one is passed via props 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <label
+        class="sc-hKgILt clrXff Checkbox"
+        data-checked="true"
+        data-disabled="true"
+        data-status="basic"
+      >
+        <input
+          checked=""
+          class="sc-eCssSg fJdDME"
+          disabled=""
+          type="checkbox"
+        />
+        <span
+          class="Checkbox__Control"
+        >
+          <svg
+            class="Checkbox__Icon"
+            viewBox="0 0 8 7"
+          >
+            <path
+              d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="Checkbox__Label"
+        >
+          Checkbox
+        </span>
+      </label>
+    </div>
+  </body>,
+  "container": <div>
+    <label
+      class="sc-hKgILt clrXff Checkbox"
+      data-checked="true"
+      data-disabled="true"
+      data-status="basic"
+    >
+      <input
+        checked=""
+        class="sc-eCssSg fJdDME"
+        disabled=""
+        type="checkbox"
+      />
+      <span
+        class="Checkbox__Control"
+      >
+        <svg
+          class="Checkbox__Icon"
+          viewBox="0 0 8 7"
+        >
+          <path
+            d="M6.03854 0.429263C6.39259 -0.0379574 7.07178 -0.139509 7.55554 0.202441C8.0393 0.544391 8.14445 1.20035 7.79039 1.66757L4.35289 6.20379C4.01966 6.64352 3.42817 6.6889 3.03177 6.30514C2.02549 5.33095 0.317012 3.67696 0.317012 3.67696C-0.106383 3.26707 -0.105565 2.6033 0.318838 2.19438C0.743241 1.78546 1.43052 1.78625 1.85391 2.19614C1.85391 2.19614 3.49539 3.78526 3.49539 3.78526C3.49539 3.78526 6.03854 0.429263 6.03854 0.429263Z"
+          />
+        </svg>
+      </span>
+      <span
+        class="Checkbox__Label"
+      >
+        Checkbox
+      </span>
+    </label>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
